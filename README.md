@@ -1,5 +1,5 @@
 # DataCamp Website Clone
-This repository contains the [DataCamp.com](https://www.datacamp.com) cloned website made using Bootstrap Studio.
+This repository contains the assets of the cloned website of [DataCamp.com](https://www.datacamp.com) made using Bootstrap Studio.
 
 Checkout the **Live Demo** by clicking [here!](https://atharvadeolalikar.github.io/DataCamp-Website-Clone/).
 
